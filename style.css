@@ -12,7 +12,9 @@ body{
     width: 100%;
     height: 100vh;
     background-image: url(photo-1517685633466-403d6955aeab.jpg);
-    background-size: 1500px 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .calculator{
     border: 1px solid #717377;
